@@ -2133,11 +2133,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/alexa/Desktop/FACULTA/Anul4/PSSC/Proj_PSSC/Proj_PSSC.csproj",
+      "projectUniqueName": "/Users/alexa/Desktop/FACULTA/Anul4/PSSC/Project-PSSC/Proj_PSSC/Proj_PSSC.csproj",
       "projectName": "Proj_PSSC",
-      "projectPath": "/Users/alexa/Desktop/FACULTA/Anul4/PSSC/Proj_PSSC/Proj_PSSC.csproj",
+      "projectPath": "/Users/alexa/Desktop/FACULTA/Anul4/PSSC/Project-PSSC/Proj_PSSC/Proj_PSSC.csproj",
       "packagesPath": "/Users/alexa/.nuget/packages/",
-      "outputPath": "/Users/alexa/Desktop/FACULTA/Anul4/PSSC/Proj_PSSC/obj/",
+      "outputPath": "/Users/alexa/Desktop/FACULTA/Anul4/PSSC/Project-PSSC/Proj_PSSC/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/alexa/.nuget/NuGet/NuGet.Config"

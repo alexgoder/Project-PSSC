@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vhIK9SHhh9b+nVQW9VbfZxvdzehuDZnjcUEr7WA1yT8UPsORkZ8WWPA7+MNkp7cVzUBb6HZpFlqkLw5FJvuGZQ==",
+  "dgSpecHash": "TbOBXwt0P2nlNxG4cu4gxKBYAAtuXAi6O3X5wvl2L6ZJK90pg9XB21ObbWHUM6NIyLCwWg0IdyYtHp3ehhC9Uw==",
   "success": true,
-  "projectFilePath": "/Users/alexa/Desktop/FACULTA/Anul4/PSSC/Proj_PSSC/Proj_PSSC.csproj",
+  "projectFilePath": "/Users/alexa/Desktop/FACULTA/Anul4/PSSC/Project-PSSC/Proj_PSSC/Proj_PSSC.csproj",
   "expectedPackageFiles": [
     "/Users/alexa/.nuget/packages/languageext.core/4.4.0/languageext.core.4.4.0.nupkg.sha512",
     "/Users/alexa/.nuget/packages/microsoft.bcl.asyncinterfaces/6.0.0/microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
