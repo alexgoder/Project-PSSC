@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "6skJxtCtaqQukgxZUPHwbR3EC6VdlVle976C71aAlexODLBQ+QEyC9OrjRHR4GvJ51JPwgjpFkv78+Jz/rJGdg==",
+  "success": true,
+  "projectFilePath": "/Users/alexa/Desktop/FACULTA/Anul4/PSSC/API_PSSC/API_PSSC/API_PSSC.csproj",
+  "expectedPackageFiles": [
+    "/Users/alexa/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/alexa/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/alexa/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/alexa/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/alexa/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/alexa/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
