@@ -11,4 +11,7 @@
       <PackageReference Include="LanguageExt.Core" Version="4.4.0" />
     </ItemGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\..\Api_pssc\Api_pssc\Api_pssc.csproj" />
+    </ItemGroup>
 </Project>
