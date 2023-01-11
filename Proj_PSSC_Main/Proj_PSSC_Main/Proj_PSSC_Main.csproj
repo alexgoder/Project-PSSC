@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Proj_PSSC_1\Proj_PSSC_1\Proj_PSSC_1.csproj" />
+    <ProjectReference Include="..\..\Proj_PSSC_2\Proj_PSSC_2\Proj_PSSC_2.csproj" />
+    <ProjectReference Include="..\..\Proj_PSSC\Proj_PSSC\Proj_PSSC.csproj" />
+  </ItemGroup>
+</Project>
